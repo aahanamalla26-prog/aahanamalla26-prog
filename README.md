@@ -92,7 +92,7 @@ Fullstack credit risk assessment platform with an ML-driven scoring pipeline.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aahanamalla26-prog/aahanamalla26-prog/output/github-snake.svg">
   <img alt="github-snake" src="https://raw.githubusercontent.com/aahanamalla26-prog/aahanamalla26-prog/output/github-snake.svg">
 </picture>
-<img src="https://raw.githubusercontent.com/aahanamalla26-prog/aahanamalla26-prog/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
 
 ---
 
