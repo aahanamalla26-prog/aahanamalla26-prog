@@ -61,7 +61,7 @@ Distributed Java 21 & Spring Boot 3 e-commerce microservices platform.
 </td>
 <td width="50%" valign="top">
 
-**💳 [Credit-Risk Platform](https://github.com/aahanamalla26-prog/credit-risk-platform)**
+**💳 [Credit-Risk Platform](https://github.com/aahanamalla26-prog/credit-risk-)**
 
 Fullstack credit risk assessment platform with an ML-driven scoring pipeline.
 
